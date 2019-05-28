@@ -1,4 +1,4 @@
-# LuhnChecksum
+# LuhnChecksum [C++]
 
 The Luhn formula is a widely used system for validating identification numbers.
 
